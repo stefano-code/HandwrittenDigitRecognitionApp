@@ -25,6 +25,13 @@ Simple. Fast. Local.
 
 ---
 
+## 📷 ScreenRecording
+
+https://github.com/user-attachments/assets/4fa4f804-ff13-4a36-bac6-df51cfe74577
+
+
+---
+
 # 🧠 The Model
 
 The model is based on the **MNIST dataset**, a classic dataset for handwritten digits.
